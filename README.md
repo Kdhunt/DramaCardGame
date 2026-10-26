@@ -37,3 +37,8 @@ Open [Base44.com](http://Base44.com) and click on Publish.
 Documentation: [https://docs.base44.com/Integrations/Using-GitHub](https://docs.base44.com/Integrations/Using-GitHub)
 
 Support: [https://app.base44.com/support](https://app.base44.com/support)
+
+## Research and game design
+
+The [research and design record](docs/README.md) contains the mechanics review, comparable-game research, conversation record, design decisions, and findings from the current source.
+
